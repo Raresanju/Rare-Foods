@@ -2,7 +2,7 @@
 # Food Delivery Platform
 
 Welcome to the Food Delivery Platform! This project features an NLP-powered chatbot for intuitive ordering, integrated with Flask and MongoDB for seamless web application functionality and data management.
-
+![Food Delivery Platform](static/images/Screenshot)
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
