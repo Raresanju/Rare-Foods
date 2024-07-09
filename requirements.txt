@@ -2,3 +2,6 @@ Flask
 pymongo
 python-dotenv
 gunicorn
+pandas
+numpy
+colorama
